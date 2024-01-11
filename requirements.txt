@@ -1,0 +1,10 @@
+openai
+langchain
+langchain_experimental
+matplotlib
+altair
+streamlit
+streamlit_option_menu
+plotly
+tabulate
+langchain_community
