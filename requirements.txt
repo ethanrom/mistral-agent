@@ -8,3 +8,4 @@ streamlit_option_menu
 plotly
 tabulate
 langchain_community
+huggingface_hub
